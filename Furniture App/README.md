@@ -4,4 +4,4 @@ This is the design of a responsive furniture app UI using flutter, this project 
 ### Furniture App UI
 
 
-![App UI](/ui.png)
+![App UI](ui.png)
