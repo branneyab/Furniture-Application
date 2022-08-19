@@ -1,20 +1,24 @@
-# Furniture App - Responsive Flutter UI
+# Flutter Furniture App
 
-## [Watch it on YouTube](https://youtu.be/8uLI8ade1aA)
+A new Flutter project.
 
-- [x] Responsive UI
-- [x] Fetch Data From API
-- [x] Custom Loading Indicator
+## Screenshots
+<p align="center">
+  <img src="assets/screenshots/Screenshot_1609719656.png" height="600em"/> 
+  <img src="assets/screenshots/Screenshot_1609719659.png" height="600em"/> 
+  <img src="assets/screenshots/Screenshot_1609719660.png" height="600em"/>
+  <img src="assets/screenshots/Screenshot_1609719662.png" height="600em"/> 
+</p>
 
-**Packages we are using:**
+## Getting Started
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-- goole_fonts: [link](https://pub.dev/packages/google_fonts)
+This project is a starting point for a Flutter application.
 
-We design a responsive furniture app UI using flutter, all of the data come from API so that you can learn how to use API on flutter. There are two pages Home page which contains a horizontal category list then the list of recommended products.
+A few resources to get you started if this is your first Flutter project:
 
-### Furniture App Final UI
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-![Preview](/Intro.gif)
-
-![App UI](/ui.png)
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
